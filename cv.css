@@ -1,0 +1,68 @@
+
+.page{
+	width: 700px;
+	margin: auto;
+	font-size: 18px;
+	border: 5px solid green;
+	border-radius:5px;
+	box-shadow: 0 0 5px 5px gold;
+	padding: 1em;
+	font-family: arial sans-serif;
+}
+li{
+	list-style-type: disc;
+}
+.gras{
+	font-weight: bold;
+}
+.entete{
+	margin: 0 0 200px 0;
+}
+.info{
+	float: left;
+	width: auto;
+	height: 150px;
+}
+.photo{
+	float: right;
+	width: 150px;
+	height: 150px;
+}
+
+.img{
+	width: 100%;
+	height: auto;
+}
+.section{
+	font-family: arial sans-serif;
+	margin: 0 0 5% 0;
+}
+.titre{
+	font-family: arial sans-serif;
+	font-size: 30px;
+	color:#4B0082;
+}
+.information1{
+	font-family: arial sans-serif;
+	width: 35px;
+	padding: 4px;
+}
+.information2{
+	font-family: arial sans-serif;
+	padding: 4px;
+	width: 73%;
+	text-align: center;
+
+}
+.categorie{
+	font-family: arial sans-serif;
+   font-weight: bold;
+
+}
+.align{
+	display: flex;
+	align-items: stretch;
+}
+a{ color: black;
+	font-weight: bold;
+}

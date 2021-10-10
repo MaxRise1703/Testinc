@@ -1,0 +1,36 @@
+table {
+	border: 3px solid #10E5DF;
+	width: 60%;
+	margin: auto;
+	background-color:#0DBFE6;
+}
+
+tr {
+
+	height: 50px;
+}
+th {
+
+	font-family: verdana;
+	font-size: 1.20em;
+	text-align: center;
+	border: 1px solid #000099;
+	background-image: url('hy.jpg');
+}
+
+td {
+	background-color: #ffffff;
+	font-size:0.80em;
+	text-align: center;
+	padding: 5px;
+	border:1px solid #6495ed;
+
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 2em;
+	text-align: center;
+	margin: 20px;
+
+}
