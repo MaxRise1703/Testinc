@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+	
+	var note1=prompt("Donner une première note");
+	var note2=prompt("Donner une deuxième note");
+	var note3=prompt("Donner une troisième note");
+
+	var somme=note1*2+note2*2+note3*3;
+	var moyenne=somme/7;
+
+	if (moyenne>10)
+	{
+		document.write("trimestre validé")
+		
+	}
+	else if (moyenne>=8)
+	{
+		document.write("rattrapage")
+		
+	}
+	else
+	{
+		document.write("trimestre invalidé")
+		
+	}
+	document.write("<table border=5><tr>");
+	document.write("<td> voila la somme: "+somme+"</td>");
+	document.write("<td> voila la moyenne "+ moyenne+"</td>");
+	document.write("</tr></table>");
+
+	
+
+
+
+
+
+	</script>
+
+</body>
+</html>
