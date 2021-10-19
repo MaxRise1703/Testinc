@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+<script type="text/javascript">
+function calculatrice() {
+
+var x=parseInt(document.getElementById("first").value);
+var y=parseInt(document.getElementById("second").value);
+document.getElementById("answer").value=(x+y);
+}
+</script>
+</head>
+<body>
+<form>
+  First:<input id="first" name="first" type="text"><br>
+  Second:<input id="second" name="second" type="text"><br>
+  Answer:<input id="answer" name="answer" type="text"><br>
+  <input onclick="calculatrice()" type="button" value="addition">
+
+
+</form>
+
+
+</body>
+</html>
