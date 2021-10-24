@@ -1,0 +1,101 @@
+.facture1 
+{
+	font-family: 'arial';
+	width: 60%;
+	margin: 0 auto;
+	background-color: #E7DA6D;
+	border-top: 16px solid #a033ff;
+	border-bottom: 16px solid #a033ff;
+	border-radius: 12px;
+}
+
+li{
+
+	list-style-type: none;
+}
+
+
+
+img{
+
+
+	margin: 2em;
+	margin-right: 1em;
+	border-radius: 50%;
+}
+
+.fac{
+   text-align: center;
+
+
+}
+
+.cont{
+
+	padding-top: 18px;
+}
+.x{
+
+	    float: right;
+    font-size: 12px;
+    margin-right: 16px;
+    margin-bottom: 6px;
+    font-style: arial;
+}
+
+.des{
+	font-size: 13px;
+	margin-bottom: 12px;
+	
+}
+
+.tab2{
+	background-color: #a033ff;
+}
+
+.tab1{
+
+
+	text-align: auto;
+}
+
+.lig{
+
+
+	background-color: grey;
+}
+
+table td input{
+
+
+	min-width: 1px;
+    max-width: 100%;
+    width: 99%;
+    border-style: none;
+    background-color: transparent;
+}
+
+.fin{
+
+padding-left:65%;
+
+}
+
+
+.date{
+	border-bottom: 1px solid black;
+}
+
+
+
+.fa1{
+
+margin-top: auto;
+    float: right;
+    padding: 14px;
+    padding-top: 2em;
+    text-align: center;
+
+
+}
+
